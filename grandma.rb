@@ -5,8 +5,8 @@ def speak_to_grandma(string)
     puts "I LOVE YOU TOO PUMPKIN!"
   else
     puts "HUH?! SPEAK UP, SONNY!"
-  end 
-
+  end
+end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
